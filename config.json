@@ -1,0 +1,143 @@
+{
+    "token" : "ton-token",
+    "prefix" : ".",
+
+
+    "role_citoyen" : "974345653352275988",
+    "role_refus_entretien" : "974345644846235680",
+    "role_candidature_acceptee" : "974345643042693171",
+
+
+    "role_en_service" : "974345640744214528",
+    "role_lspd" : "974345637497798698",
+
+
+    "role_mise_a_pied" : "974345634326908988",
+    "role_avertissement2" : "974345633261572106",
+    "role_avertissement1" : "974345632099741796",
+
+
+    "role_f9" : "974345626470977547",
+    "role_f8" : "974345625497907210",
+    "role_f7" : "974345624516448306",
+    "role_f6" : "974345623660797962",
+    "role_f5" : "974345622830325810",
+    "role_f4" : "974345621001617408",
+    "role_f3" : "974345619948863600",
+    "role_f2" : "974345618053005352",
+    "role_f1" : "974345616975085648",
+
+
+    "role_mary" : "974345613984559195",
+    "role_dispatcheur" : "974345612508156006",
+    "role_asp" : "974345611728015381",
+    "role_tireur" : "974345610792665109",
+    "role_crisis" : "974345610222264360",
+
+
+    "role_training_division" : "974345607328194572",
+    "role_training_division_chef" : "974345605440766023",
+    "role_training_division_superviseur" : "974345603104534528",
+
+
+    "role_swat_division" : "974345598708879390",
+    "role_swat_division_chef" : "974345597874229278",
+    "role_swat_division_superviseur" : "974345595487662120",
+
+
+    "role_police_academie" : "974345587086467112",
+    "role_police_academie_chef" : "974345585232601108",
+    "role_police_academie_superviseur" : "974345583340974100",
+
+
+    "role_detective_division" : "974345580811784234",
+    "role_detective_division_chef" : "974345579733848085",
+    "role_detective_division_superviseur" : "974345577724788758",
+
+
+    "role_support" : "974345575824785478",
+    "role_staff" : "974345573861826560",
+
+
+    "role_ems" : "974345569801744525",
+    "role_justice" : "974345567792676934",
+    "role_gouv" : "974345566282735706",
+    "role_fbi" : "974345565120888932",
+
+
+    "role_cadet" : "974345562113593395",
+    "role_officier1" : "974345561228603463",
+    "role_officier2" : "974345560322637924",
+    "role_officier3" : "974345558514868274",
+
+
+    "role_sergent1" : "974345553582391356",
+    "role_sergent2" : "974345552659611738",
+
+
+    "role_detective1" : "974345549190930452",
+    "role_detective2" : "974345547441917962",
+    "role_detective3" : "974345545613189190",
+
+
+    "role_lieutenant1" : "974345542278733865",
+    "role_lieutenant2" : "974345541335007263",
+
+
+    "role_etat_major" : "974345539544031282",
+    "role_capitaine1" : "974345537589510214",
+    "role_capitaine2" : "974345536524156928",
+    "role_capitaine3" : "974345534661881896",
+
+
+    "role_superviseur" : "974345532715716619",
+    "role_commandant" : "974345529922293760",
+    "role_chef" : "974345529091821608",
+
+
+    "role_." : "974345523257544736",
+    "role_bot" : "974345520820670585",
+    "role_non_verifié" : "975063402072379402",
+
+    "chan_bvn" : "974345721581031434",
+    "chan_verif" : "975219829948686436",
+
+    "chan_contact_direction" : "974345733639659570",
+
+    "chan_annonces_recrutement" : "974345735753568406",
+    "chan_resultat_entretien" : "974345745090105404",
+    "chan_reglement" : "974345747824771142",
+    "chan_formations" : "974345754552438844",
+    "chan_droits_miranda" : "974345758050508840",
+    "chan_code_penal" : "974345762429349888",
+    "chan_effectif" : "974345764862042193",
+    "chan_codes_radio" : "974345766221021215",
+    "chan_armes_legales" : "974345768410439750",
+    "chan_faire_un_ticket" : "974345799800586260",
+
+    "chan_suggestions_civil" : "974345728312897547",
+    "chan_suggestions_gradé" : "974345787339321344",
+    "chan_suggestions_lspd" : "974345796512256070",
+
+
+    "chan_demandes_ppa" : "974345769635164160",
+    "chan_annonces_session" : "974345770683731968",
+
+
+    "chan_prise_de_service" : "974345803348992091",
+    "chan_fin_de_service" : "974345804842168340",
+    "chan_creation_casier" : "974345806578585600",
+    "chan_rapports_envoyés" : "974345850430050384",
+    "chan_rapports_réponses" : "974345851537326170",
+    "chan_logs_rapport" : "975813435411533884",
+
+    "chan_logs_viré" : "974345852590108742",
+    "chan_logs_accept" : "974345853709987860",
+    "chan_logs_attente" : "974345855027011614",
+    "chan_logs_refus" : "974345856243339324",
+
+    "chan_logs_ban" : "974345857560363109",
+    "chan_logs_kick" : "974345858483109980",
+    "chan_logs_mute" : "974345860072751164",
+    "chan_logs_unmute" : "974345864917155910"
+}
